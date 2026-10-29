@@ -1,0 +1,447 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.page-container {
+    display: flex;
+    justify-content: center;
+
+}
+
+.content-container {
+    width: 1000px;
+
+}
+
+.main1 {
+
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+
+.Play-login-button {
+    color: white;
+    background-color: #192B24;
+    padding: 10px;
+    border-radius: 12px;
+}
+
+.ui {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    padding: 20px;
+}
+
+.Sage {
+    color: white;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+
+}
+
+
+.ui2 {
+    color: white;
+
+}
+
+.ui3 {
+
+    color: white;
+    background-color: #192B24;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.ui4 {
+    color: #A8D672;
+}
+
+.main2 {
+    height: 640px;
+    display: flex;
+    margin-top: 120px;
+}
+
+.m2-gb1 {}
+
+.m2-gb1-blok1 {
+    color: #70D6B2;
+    font-size: 13px;
+}
+
+.m2-gb1-blok2 {
+    font-size: 56px;
+    margin-top: 15px;
+}
+
+.m2-gb1-blok3 {
+    font-size: 22px;
+    color: #9EAA9E;
+    margin-top: 15px;
+    width: 500px;
+}
+
+.m2-gb1-blok4 {
+    font-size: 13;
+    color: black;
+    background-color: #A8D672;
+    border-radius: 16px;
+    margin-top: 15px;
+    width: 220px;
+    height: 37px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main3 {
+    background-color: #13201B;
+    height: 500px;
+    padding-top: 40px;
+    border-radius: 30px;
+}
+
+.m3-gb1 {
+    margin-top: 50px;
+    margin-left: 25px;
+}
+
+.m3-gb1-blok1 {
+    color: #FFB893;
+    font-size: 13px;
+    margin-top: 50px;
+    margin-left: 25px;
+}
+
+.m3-gb1-blok2 {
+    font-size: 42px;
+
+    margin-left: 25px;
+}
+
+.m3-gb2 {
+    margin-top: 30px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.m3-gb2-blok1 {
+    width: 300px;
+    height: 250px;
+    border: solid 1px #2B4037;
+    border-radius: 20px;
+}
+
+.m3-gb2-blok2 {
+    width: 300px;
+    height: 250px;
+    border: solid 1px #2B4037;
+    border-radius: 20px;
+}
+
+.m3-gb2-blok3 {
+    width: 300px;
+    height: 250px;
+    border: solid 1px #2B4037;
+    border-radius: 20px;
+}
+
+.m3-gb2-blok1-blokje1 {
+    padding: 20px;
+
+}
+
+.m3-gb2-blok1-blokje2 {
+    font-size: 24px;
+    margin-left: 20px;
+}
+
+.m3-gb2-blok1-blokje3 {
+    margin-left: 20px;
+    margin-top: 30px;
+    color: #9EAA9E;
+    font-size: 17px;
+}
+
+.m3-gb2-blok2-blokje1 {
+    padding: 20px;
+
+}
+
+.m3-gb2-blok2-blokje2 {
+    font-size: 24px;
+    margin-left: 20px;
+}
+
+.m3-gb2-blok2-blokje3 {
+    margin-left: 20px;
+    margin-top: 30px;
+    color: #9EAA9E;
+    font-size: 17px;
+}
+
+.m3-gb2-blok3-blokje1 {
+    padding: 20px;
+}
+
+.m3-gb2-blok3-blokje2 {
+    font-size: 24px;
+    margin-left: 20px;
+}
+
+.m3-gb2-blok3-blokje3 {
+    margin-left: 20px;
+    margin-top: 30px;
+    color: #9EAA9E;
+    font-size: 17px;
+}
+
+.main4 {
+    width: 1000px;
+    margin-top: 50px;
+
+}
+
+.m4-gb1 {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.m4-gb1-blok1 {
+    color: #70D6B2;
+    font-size: 13px;
+}
+
+.m4-gb1-blok2 {
+    font-size: 42px;
+}
+
+.m4-gb1-blok3 {
+    color: #9EAA9E;
+    font-size: 17px;
+}
+
+
+
+.m4-gb2 {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    color: black;
+    margin-top: 40px;
+
+}
+
+.m4-gb2-blok1 {
+    background-color: #A8D672;
+    height: 470px;
+    padding: 15px;
+    border-radius: 20px;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
+
+.m4-gb2-blok2 {
+    background-color: #C6B5FF;
+    height: 470px;
+    padding: 15px;
+    border-radius: 20px;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
+
+.m4-gb2-blok3 {
+    background-color: #FFB893;
+    height: 470px;
+    padding: 15px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.guide-details {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.mara-chen {
+    font-size: 24px;
+    padding: 5px;
+}
+
+.lead {
+    font-size: 13px;
+    padding: 5px;
+}
+
+.breathwork {
+    font-size: 14px;
+    padding: 5px;
+}
+
+.okafor {
+    font-size: 24px;
+    padding: 5px;
+}
+
+.game-designer {
+    font-size: 13px;
+    padding: 5px;
+}
+
+.behavioral {
+    font-size: 14px;
+    padding: 5px;
+}
+
+.sol-rivera {
+    font-size: 24px;
+    padding: 5px;
+}
+
+.Community {
+    font-size: 13px;
+    padding: 5px;
+}
+
+.esports {
+    font-size: 14px;
+    padding: 5px;
+}
+
+.press-heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-top: 130px;
+    margin-bottom: 50px;
+}
+
+.notes {
+    font-size: 42px;
+    display: flex;
+    justify-content: start;
+}
+
+.all-fields {
+    color: #9EAA9E;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: end;
+}
+
+.alle-blokjes {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.eerste-blokje {
+    background-color: #70D6B2;
+    width: 370px;
+    height: 280px;
+    border-radius: 20px;
+}
+
+.tweede-blokje {
+    background-color: #C6B5FF;
+    width: 370px;
+    height: 280px;
+    border-radius: 20px;
+}
+
+.derde-blokje {
+    background-color: #E8DD63;
+    width: 370px;
+    height: 280px;
+    border-radius: 20px;
+}
+
+.journal {
+    padding: 20px;
+    padding-bottom: 10px;
+    color: black;
+    font-size: 15px;
+}
+
+.second {
+    padding: 20px;
+    color: black;
+    font-size: 24px;
+}
+
+.practical {
+    padding: 20px;
+    color: black;
+    font-size: 14px;
+    padding-top: 10px;
+}
+
+.Read {
+    padding: 20px;
+    color: black;
+    font-size: 14px;
+    padding-top: 10px;
+}
+
+.main6 {
+    width: 100%;
+    height: 220px;
+    background-color: #2B4037;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+
+    margin-top: 130px;
+}
+
+.m6-blok1 {}
+
+.m6-blok2 {
+    display: flex;
+    gap: 20px;
+}
+
+.m6-blok3 {
+    display: flex;
+}
+
+.foto1-m6 {}
+
+
+.foto2-m6 {}
+
+.foto3-m6 {}
+
+.logo-m6 {
+    font-size: 30px;
+}
+
+.m6-blok3 {
+    color: #53645C;
+}
+
+.blok2-m6-blok1 {
+    color: #9EAA9E;
+    margin-top: 10px;
+}
+
+a {
+    text-decoration: none;
+}
